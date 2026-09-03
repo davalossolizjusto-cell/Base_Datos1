@@ -1,4 +1,8 @@
-Paso 1: Recoger la narración del cliente Actores:
+# EJEMPLO 1
+
+
+  ## Paso 1: Recoger la narración del cliente Actores:
+  
        Entrevista a la señora Lupe Barrionuevo (Restaurante o Pension propio)
               -La señora se encuentra en la nesecidad de mejorar su sistema de pedidos, ya que el pricipal problema que ella tiene es la gran cantidad de pedidos que le llegan 
                al momento mas concurrido (hora del almuerzo) al tratar de sobrellevar la mayoria de los pedidos pudo observar que algunos pedidos no cumplian con ciertos puntos,
