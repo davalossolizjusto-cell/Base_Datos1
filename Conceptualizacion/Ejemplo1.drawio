@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="2hG3dxthdotUebL2tmHc">
-    <mxGraphModel dx="1789" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1996" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="QPh6RBzWX7sSjwfWre5L-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Entrega" vertex="1">
           <mxGeometry height="80" width="80" x="395" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="QPh6RBzWX7sSjwfWre5L-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Recepcionista" vertex="1">
+        <mxCell id="QPh6RBzWX7sSjwfWre5L-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Recepcion" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="260" as="geometry" />
         </mxCell>
         <mxCell id="QPh6RBzWX7sSjwfWre5L-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Envio" vertex="1">
@@ -145,7 +145,7 @@
         <mxCell id="QPh6RBzWX7sSjwfWre5L-148" edge="1" parent="1" source="QPh6RBzWX7sSjwfWre5L-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QPh6RBzWX7sSjwfWre5L-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QPh6RBzWX7sSjwfWre5L-122" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;u&gt;id_Recepcionista&lt;/u&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QPh6RBzWX7sSjwfWre5L-122" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;u&gt;id_Recepcion&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="750" y="130" as="geometry" />
         </mxCell>
         <mxCell id="QPh6RBzWX7sSjwfWre5L-155" edge="1" parent="1" source="QPh6RBzWX7sSjwfWre5L-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hl9YzBeAgHPvFWMppdpx-4">
