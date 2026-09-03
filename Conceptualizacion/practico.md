@@ -2,7 +2,7 @@
 
 
   ## Paso 1: Recoger la narración del cliente Actores:
-  
+ ```
        Entrevista a la señora Lupe Barrionuevo (Restaurante o Pension propio)
               -La señora se encuentra en la nesecidad de mejorar su sistema de pedidos, ya que el pricipal problema que ella tiene es la gran cantidad de pedidos que le llegan 
                al momento mas concurrido (hora del almuerzo) al tratar de sobrellevar la mayoria de los pedidos pudo observar que algunos pedidos no cumplian con ciertos puntos,
@@ -12,26 +12,29 @@
                son via efectivo(en persona), y transferencia o pago por qr.
               -Los pedidos principalmente son gestionados por la misma persona o algun ayudante(recepcion), tambien cuenta con conductores con sus propios vehiculos(motos)para 
                hacer las entregas o envios.
+```
+ ---
 
- 
-
-Paso 2: Identificar entidades y atributos
-
+## Paso 2: Identificar entidades y atributos
+```
 Cliente:  nombre, apellido, telefono, direccion.
 Restaurante: nombre,direccion,telefono.
 Repartidor: nombre, id_repatidor, CI, telefono.
 Personal(Recepcionista):  nombre, id_recepcion,CI, telefono.
+```
+---
 
-
-
-Paso 3: Determinar claves primarias y tipos básicos
+## Paso 3: Determinar claves primarias y tipos básicos
+```
 Cliente: Direccion (String, PK).
 Restaurante: Direccion(String, Pk).
 Repartidor: id_repartidor(INT, Pk) CI(VARCHAR, Unique).
 Personal(Recepcionista): id_recepcionista(INT, Pk) CI(VARCHAR, Unique).
+```
+---
 
-
-Paso 4: Detectar relaciones y cardinalidades (Justificadas)
+## Paso 4: Detectar relaciones y cardinalidades (Justificadas)
+```
 Cliente N:M Pedido 
    justificacion un cliente puede hacer muchos pedidos y un pedido puede ser hecho por muchos clientes.
 
@@ -55,10 +58,11 @@ Repartidor N:M Entrega
 
 Entrega N:M Cliente
  justificacion una Entrega puede tener diferentes clientes y un cliente puede recibir muchas entregas.
+```
+---
 
-
-Paso 5: Restricciones importantes
-
+## Paso 5: Restricciones importantes
+```
 Unicidad (UNIQUE): El telefono del cliente es necesario para la reserva.
 
 No nulos (NOT NULL):
@@ -68,8 +72,8 @@ Restricciones de verificación (CHECK):
 estado en Reserva debe restringirse a valores válidos: ('Pendiente', 'Completada', 'Cancelada').
 monto en Pagos debe ser mayor a 0 (monto > 0).
 
-
-
+```
+----
 
 
 Paso 6: Representación del DER (Notación Crow's Foot - Resumen Estructural)
