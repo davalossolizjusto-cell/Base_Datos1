@@ -3,15 +3,21 @@
 
   ## Paso 1: Recoger la narración del cliente Actores:
  ```
-       Entrevista a la señora Lupe Barrionuevo (Restaurante o Pension propio)
-              -La señora se encuentra en la nesecidad de mejorar su sistema de pedidos, ya que el pricipal problema que ella tiene es la gran cantidad de pedidos que le llegan 
-               al momento mas concurrido (hora del almuerzo) al tratar de sobrellevar la mayoria de los pedidos pudo observar que algunos pedidos no cumplian con ciertos puntos,
-               los cuales le hacian perder dinero y el prducto en algunos casos este seria el hecho de que la persona que hacia el pedido no completaba o no enviaba la direccion
-               a la cual se debia de entregar los pedidos y tambien en algunos casos los comprobantes de pago no se llegaban a verificar a tiempo.
-              -El negocio funciona principalmente a base de vender comida, recibir pedidos ya sean para que les llegue a casa o ser recogidos por ellos mismos los metodos de pago
-               son via efectivo(en persona), y transferencia o pago por qr.
-              -Los pedidos principalmente son gestionados por la misma persona o algun ayudante(recepcion), tambien cuenta con conductores con sus propios vehiculos(motos)para 
-               hacer las entregas o envios.
+Entrevista a la señora Lupe Barrionuevo (Restaurante o Pension propio)
+La señora se encuentra en la nesecidad de mejorar su sistema de pedidos,
+ya que el pricipal problema que ella tiene es la gran cantidad de pedidos que le llegan 
+al momento mas concurrido (hora del almuerzo) al tratar de sobrellevar
+la mayoria de los pedidos pudo observar que algunos pedidos no cumplian con ciertos puntos,
+los cuales le hacian perder dinero y el prducto en algunos casos este seria el hecho de que la persona
+que hacia el pedido no completaba o no enviaba la direccion
+a la cual se debia de entregar los pedidos y tambien en algunos casos
+los comprobantes de pago no se llegaban a verificar a tiempo.
+El negocio funciona principalmente a base de vender comida, recibir pedidos ya sean para que les llegue a casa
+o ser recogidos por ellos mismos los metodos de pago
+son via efectivo(en persona), y transferencia o pago por qr.
+Los pedidos principalmente son gestionados por la misma persona o algun ayudante(recepcion), tambien
+cuenta con conductores con sus propios vehiculos(motos)para 
+hacer las entregas o envios.
 ```
  ---
 
